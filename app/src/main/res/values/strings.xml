@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">And. Application</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="quiz">Start Your Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="ques">Which Country does the Flag belong to?</string>
+    <string name="Name">Name</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next Question</string>
+    <string name="your_score_is">Your Score is</string>
+    <string name="out_of">out of</string>
+    <string name="quizIT">QuizIT</string>
+</resources>
