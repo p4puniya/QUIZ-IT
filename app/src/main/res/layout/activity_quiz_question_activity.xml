@@ -111,7 +111,7 @@
             android:layout_margin="10dp"
             android:background="@drawable/default_option_drawable_bg"
             android:gravity="center"
-            android:padding="15dp"
+              android:padding="15dp"
             android:textColor="#7A8089"
             android:textSize="18sp"
             android:text="Banana"

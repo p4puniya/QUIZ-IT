@@ -4,5 +4,5 @@
     android:layout_width="wrap_content">
     <stroke
         android:width="5dp"
-        android:color="#000000" />
+        android:color="#ffffff" />
 </shape>
